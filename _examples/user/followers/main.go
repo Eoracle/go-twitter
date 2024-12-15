@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/g8rswimmer/go-twitter"
+	"github.com/eOracle/go-twitter"
 )
 
 type authorize struct {

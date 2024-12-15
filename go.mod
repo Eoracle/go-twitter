@@ -1,4 +1,4 @@
-// Deprecated: use github.com/g8rswimmer/go-twitter/v2 instead.
-module github.com/bitcomputing/go-twitter
+// Deprecated: use github.com/eOracle/go-twitter/v2 instead.
+module github.com/eOracle/go-twitter
 
 go 1.22
